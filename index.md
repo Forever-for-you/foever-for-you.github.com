@@ -8,7 +8,7 @@
       <p><b>地址：浙江绍兴</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 
+      <img src="/zhengjianzhao.jpg" width="100%">      % IMG_E0654.JPG
     </td>
   </tr>
 </table>
