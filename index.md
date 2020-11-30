@@ -1,29 +1,27 @@
 ###Personal information
 
-####Name：XuKe
+####姓名：徐锞
 
-####Academic background：Undergraduate
+####学历：本科在读生
 
-####University：Zhejiang Wanli University
+####院校：浙江万里学院
+####电子邮件：2945172427@qq.com
 
-####E-mail：2945172427@qq.com
+####地址：浙江绍兴
 
-####Address：Shaoxing, Zhejiang Province, China
+###最新消息
 
-###Latest news
+####1.消息一：刚完成英语一的考试
 
-####1.new1：Just finished the Class1 English exam
+###研究方向
 
-###Research direction
+####·关于通信基站的建立和维护
+####·人工智能的自主学习和发展
 
-####·To study the theory of the construction and maintenance of communication base stations
+###荣誉奖励
 
-####·Self-learning development of artificial intelligence
+####N暂无
 
-###Honor awards
+###研究项目
 
-####Not yet
-
-###Project research
-
-####Not yet
+####暂无
