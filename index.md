@@ -4,11 +4,11 @@
       <h1>徐锞</h1>
       <p><b>本科在读生</b></p>
       <p><b>浙江万里学院</b></p>
-      <p><b>邮箱：2945172427@qq.com</b></p>
+      <p><b> 邮箱：2945172427@qq.com</b></p>
       <p><b>地址：浙江绍兴</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      % https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
     </td>
   </tr>
 </table>
