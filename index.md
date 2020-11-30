@@ -8,8 +8,7 @@
       <p><b>地址：浙江绍兴</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % foever-for-you.github.com/IMG_E0654.Jpg
-
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
