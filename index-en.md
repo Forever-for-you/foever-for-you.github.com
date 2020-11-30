@@ -8,7 +8,7 @@
       <p><b>地址：Shaoxing, Zhejiang Province, China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
+      <img src="/zhengjianzhao.jpg" width="100%">       https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
     </td>
   </tr>
 </table>
