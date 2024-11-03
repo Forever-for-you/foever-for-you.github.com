@@ -8,7 +8,7 @@
       <p><b>地址：浙江绍兴</b></p>
     </td>
     <td width="25%">
-      <img src="./6416944.jpg" width="100%">https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
+      <img src="https://github.com/X1mal/X1mal.github.io/blob/gh-pages/6416944.jpg" width="100%">https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
     </td>
   </tr>
 </table>
