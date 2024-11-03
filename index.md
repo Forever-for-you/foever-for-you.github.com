@@ -7,8 +7,8 @@
       <p><b> 邮箱：2945172427@qq.com</b></p>
       <p><b>地址：浙江绍兴</b></p>
     </td>
-    <td width="45%">
-      <img src="./6416944.jpg" width="200%">
+    <td width="25%">
+      <img src="./6416944.jpg" width="100%">https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
     </td>
   </tr>
 </table>
