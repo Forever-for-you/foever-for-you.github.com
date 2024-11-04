@@ -1,14 +1,19 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet.css" href="./stylesheet.css">
+</head>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>徐锞</h1>
       <p><b>本科在读生</b></p>
       <p><b>浙江万里学院</b></p>
       <p><b> 邮箱：2945172427@qq.com</b></p>
       <p><b>地址：浙江绍兴</b></p>
     </td>
-    <td width="25%">
-      <img src="./6416944.jpg" width="100%">https://github.com/Forever-for-you/foever-for-you.github.com/blob/gh-pages/IMG_E0654.JPG
+    <td width="40%">
+      <img src="./6416944.jpg" width="100%">
     </td>
   </tr>
 </table>
